@@ -1,1 +1,2 @@
 # -Independent-project
+Hello, my name is Rubi Solis, and I wanted to do this independent project to simulate my software work for a company and improve my skills in databases, web design, and security. It's a company called Artesanias Mar Bella, and they want software that would have a database of their products and a website with their best-selling products, daily and monthly profits, customer data, and customer purchase management, as well as orders and a customer page.
