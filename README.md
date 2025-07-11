@@ -14,7 +14,7 @@ the goal is for company to:
 3.Automate records and operations 
 4.have a functional web presence for its potential customers
 
-WWhat will you find in this repository?
+What will you find in this repository?
 Within the different folders, you can explore how to create your own system from scratch:
 
 * Database model (diagrams, relationships, primary/foreign keys)
